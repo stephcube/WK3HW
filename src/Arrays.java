@@ -23,6 +23,10 @@ for (int i = 0; i < students.length; i++) {
 System.out.println("Enhanced For Loop");
 for (String student : students) {
 	System.out.println(student);
+	
+	int num1 = 5;
+	int num2 = 2;
+	System.out.println(num1 % num2);
 }
 	}
 
